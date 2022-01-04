@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name1">"Name : "</string>
+    <string name="num1">"Phone number : "</string>
+    <string name="adresse1">"Address : "</string>
+    <string name="detail1">"Detail contact"</string>
+    <string name="help1">"Help"</string>
+    <string name="helpInfo1">"It's an application of contact which allow to add, create, search or delete the phone number."</string>
+</resources>

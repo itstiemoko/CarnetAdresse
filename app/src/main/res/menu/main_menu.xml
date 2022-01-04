@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:title="Rechercher"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search_24"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
+        android:id="@+id/creer"
+        android:title="Créer"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add_24"/>
+    <item
+        android:id="@+id/myContact"
+        android:title="Ajouter"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_person_add_24"/>
+    <item
+        android:id="@+id/detailsContact"
+        android:title="Contact détaillé"/>
+    <item
+        android:id="@+id/help"
+        android:title="Aide"/>
+
+</menu>

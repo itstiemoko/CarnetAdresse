@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carnet</string>
+    <string name="name">"Nom : "</string>
+    <string name="num">"Numéro : "</string>
+    <string name="adresse">"Adresse : "</string>
+    <string name="detail">"Deatil contact"</string>
+    <string name="help">"Aide"</string>
+    <string name="helpInfo">"C'est une application de contact qui vous permet d'ajouter, creer, rechercher, supprimer le numero de telephone."</string>
+    <string name="version">version :</string>
+    <string name="message_controle">Veuillez saisir le nom et le numero</string>
+    <string name="msg_suppression">Voulez-vous supprimer le contact %1$s ?</string>
+</resources>
